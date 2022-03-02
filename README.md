@@ -1,0 +1,2 @@
+# SoSDiscordBot
+ a discord bot
