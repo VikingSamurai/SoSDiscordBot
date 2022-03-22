@@ -1,0 +1,24 @@
+{
+  "name": "zima-bot",
+  "version": "0.0.1",
+  "description": "A discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VikingSamurai/SoSDiscordBot.git"
+  },
+  "author": "SongOfSisyphus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VikingSamurai/SoSDiscordBot/issues"
+  },
+  "homepage": "https://github.com/VikingSamurai/SoSDiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "events": "^3.3.0"
+  }
+}
